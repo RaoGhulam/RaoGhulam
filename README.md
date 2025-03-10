@@ -1,4 +1,4 @@
-<img src="https://github.com/RaoGhulam/RaoGhulam/blob/main/gif.gif?raw=true" width="500" height="80">
+<img src="https://github.com/RaoGhulam/RaoGhulam/blob/main/gif.gif?raw=true" width="450" height="80">
 
 # Hi, I'm Rao Ghulam Mohiuddin 👋  
 💻 I love coding and exploring new technologies!  
