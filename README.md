@@ -3,7 +3,7 @@
 # Hi, I'm Rao Ghulam Mohiuddin 👋  
 💻 I love coding and exploring new technologies!  
 🔭 Currently working on: **Machine Learning & Deep Learning**  
-📫 How to reach me: [LinkedIn](https://linkedin.com/in/yourprofile) | [Twitter](https://twitter.com/yourhandle)  
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rao-ghulam-mohi-uddin-5b969a288)  
 
 ## 🛠 Tech Stack
 
