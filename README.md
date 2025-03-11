@@ -1,4 +1,4 @@
-<img src="https://github.com/RaoGhulam/RaoGhulam/blob/main/cpp_code_typing_animation.gif?raw=true?raw=true" width="1000" height="300">
+<img src="https://github.com/RaoGhulam/RaoGhulam/blob/main/cpp_code_typing_animation-ezgif.com-crop.gif?raw=true" width="350" height="250">
 
 # Hi, I'm Rao Ghulam Mohiuddin 👋  
 💻 I love coding and exploring new technologies!  
