@@ -1,5 +1,3 @@
-<img src="https://github.com/RaoGhulam/RaoGhulam/blob/main/code_typing_animation.gif?raw=true">
-
 # Hi, I'm Rao Ghulam Mohiuddin 👋  
 💻 I love coding and exploring new technologies!  
 🔭 Currently working on: **Machine Learning & Deep Learning**  
